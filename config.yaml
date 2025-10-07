@@ -1,0 +1,11 @@
+configuration:
+  builder_filter:
+  branches:
+    - 10.6
+    - 10.11
+    - 11.4
+    - 11.8
+    - 12.1
+    - 12.2
+    - 12.3
+    - main
